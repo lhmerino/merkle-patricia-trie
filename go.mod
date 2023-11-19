@@ -1,4 +1,4 @@
-module github.com/lhmerino/merkle-patrica-trie
+module github.com/lhmerino/merkle-patricia-trie
 
 go 1.18
 
