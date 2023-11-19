@@ -1,4 +1,4 @@
-module merkle-patrica-trie
+module github.com/lhmerino/merkle-patrica-trie
 
 go 1.18
 
